@@ -1,0 +1,13 @@
+.firstDiv{
+margin-left: 12rem;
+color:white;
+/* border: 1px solid red; */
+}
+.secondDiv{
+    color:white;
+/* border:1px solid white; */
+margin-right: 8em;
+}
+.main{
+    margin-top: 8rem;
+}

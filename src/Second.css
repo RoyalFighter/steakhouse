@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    margin-left: 12em;
+    margin-right: 9em;
+  }
+  
+  .image-div {
+    flex: 1;
+  }
+  
+  .content-div {
+    flex: 1;
+    padding-left: 20px;
+    color:black;
+    background-color: white;
+  }
+  
+  .image-div img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .content-div h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .content-div p {
+    /* text-align: center; */
+    font-size: 16px;
+    color: #555;
+  }

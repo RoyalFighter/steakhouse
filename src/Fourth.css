@@ -1,0 +1,41 @@
+.first,.second{
+    display:flex;
+    gap: 4em;
+}
+.sub1 h1,.sub2 h1,.sub3 h1,.sub4 h1{
+    font-family:Cedarville Cursive ;
+    color:white;
+}
+.sub1 p,.sub2 p,.sub3 p,.sub4 p{
+    color:white;
+    
+}
+.first img{
+    margin-left: 10em;
+    
+}
+.sub1 p{
+    margin-right: 8em;
+    
+}
+
+.sub2 p{
+    margin-left: 10em;
+}
+.sub2 h1{
+    margin-left: 5em;
+}
+.second img{
+    margin-right: 10em;
+   
+}
+
+.show {
+    opacity: 1;
+    transition: opacity 0.5s ease-in-out;
+  }
+  
+  .hide {
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+  }

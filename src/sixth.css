@@ -1,0 +1,17 @@
+.main1{
+    margin-top: 3em;
+    display: flex;
+    flex-direction: column;
+    margin-left: 10em;
+    margin-right: 10em;
+    justify-content: center;
+    align-items: center;
+}
+.text1{
+    text-align: center;
+    color: white;;
+}
+.heroimg img{
+    width:950px;
+
+}

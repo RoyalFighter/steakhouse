@@ -1,0 +1,19 @@
+.cont{
+    display: flex;
+    gap: 40px;
+    justify-content:space-evenly;
+    align-items: center;
+    color: white;
+    margin-top: 3em;
+}
+.firsta{
+    display: flex;
+    gap: 40px;
+}
+.secondb{
+    display: flex;
+    gap: 40px;
+}
+.b{
+    margin-top: 2.3em;
+}
